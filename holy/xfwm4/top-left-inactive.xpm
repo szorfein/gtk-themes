@@ -2,9 +2,9 @@
 static char * top_left_inactive_xpm[] = {
 "2 26 4 1",
 " 	c None",
-".	c #1D1B20",
-"+	c #1D1B20",
-"@	c #1D1B20",
+".	c #1C1B20",
+"+	c #1C1B20",
+"@	c #1C1B20",
 " .",
 ".+",
 ".@",
